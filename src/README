@@ -1,0 +1,23 @@
+    This is the first time I've ever worked with an API so I don't know if everything will go exactly as it said in the
+requirement. Nevertheless, I've managed to get it running and have not seen any major drawbacks or bugs within the
+program, yet.
+    I used Java because it is my first used programming language, I know that I might have more experience when it comes
+to C++ due to Vanderbilt's CS course arrangement, but I reckon that C++ is somewhat difficult to implement the twitter
+API and there doesn't seem to be much guidance on it on the Internet as well.
+    The library that comes with this decision is twitter4j, which is something that I have heard of in the past year.
+The implementation of the twitter API was not as difficult as I thought it would be. So it didn't take me the full 6
+hours to finish it.
+    I really wanted to implement some of the Bonuses in the guideline, but due to time limitation, ( assignments and HWs
+just never stop coming... ) it really wouldn't be possible to get it done on time if I were to get some sleep after a
+night's work. ( I'm in Asia now ) Thus, you can probably consider this as only the first basic version of this project.
+    I added some small easter eggs just to make it really feel like a game, like when the user gets different percentage
+of correct answers the program will give slightly different results when it comes to the final stat display. I haven't
+figured out how exactly to make the text appear on a separate window instead of just a plain text editor or terminal.
+I think I need a GUI to do that but, again, I'm kinda new to GUI as well so I just stopped thinking about this and
+focused getting the required part done.
+    Overall, the assignment is not as hard. The only difficult part is probably the utilization of the twitter API
+because I've never used it. Other than that, a fun, normal-difficulty project to do. Thank you for your review and the
+opportunity for me engage in this project.
+
+By: Jiawei Zhu
+2020.09.26 (7:30AM GMT+8)
